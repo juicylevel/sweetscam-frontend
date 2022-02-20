@@ -3,7 +3,7 @@ import Footer from './Footer';
 import History from './History';
 import Intro from './Intro';
 import Navigation from './Navigation';
-import RoadMap from './Roadmap';
+import RoadMap from './RoadMap';
 
 const Home = () => {
     return (
